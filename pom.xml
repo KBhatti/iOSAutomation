@@ -148,7 +148,7 @@
                     <execution>
                         <id>reporting</id>
                         <phase>verify</phase>
-                        <!-- >goals>
+                        <!--goals>
                             <goal>generate</goal>
                         </goals-->
                         <configuration>

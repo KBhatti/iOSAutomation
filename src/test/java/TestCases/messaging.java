@@ -93,7 +93,7 @@ public class messaging extends AbstractPageSD
 			String text = element.getAttribute("name");
 			Assert.assertEquals(TTL, text);
 		}
-
+//Ignore
 		@Then("^I close out the conversation screen$")
 		public void i_close_out_the_conversation_screen() throws Throwable 
 		{
