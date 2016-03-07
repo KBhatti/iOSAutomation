@@ -1,0 +1,1 @@
+appium --address 127.0.0.1 --port 4723 --command-timeout "7200" --debug-log-spacing --backend-retries "3" --default-device

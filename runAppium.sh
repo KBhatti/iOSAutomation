@@ -1,0 +1,1 @@
+./startAppium.sh & ./testAppium.sh
